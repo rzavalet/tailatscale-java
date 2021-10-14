@@ -9,3 +9,12 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+tailatscale_client/.classpath
+tailatscale_client/.project
+tailatscale_client/.settings/org.eclipse.jdt.core.prefs
+tailatscale_client/.settings/org.eclipse.m2e.core.prefs
+tailatscale_server/.classpath
+tailatscale_server/.project
+tailatscale_server/.settings/org.eclipse.jdt.core.prefs
+tailatscale_server/.settings/org.eclipse.m2e.core.prefs
+
