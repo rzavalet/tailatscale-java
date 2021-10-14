@@ -9,6 +9,6 @@ __Server__ starts an http server (localhost:4567) that handles the following rou
 - /list/:word : Search for :word in a dictionary using linear search
 - /hash/:word : Search for :word in a dictionary using a hash function
 
-__Measure__ sends a bunch of http requests to __SERVER__ and generates a file out.csv that contains the latencies for each http request. The csv file can be used to generate a histogram that shows the "tail" in the distribution.
+__Measure__ sends a bunch of http requests to __SERVER__ and generates a file out.csv that contains the latencies for each http request. The csv file can be used to generate a histogram that shows the "tail" in the distribution (see chart below).
 
 ![Latency histogram](Histogram.png)
